@@ -23,6 +23,8 @@ Here are some ideas to get you started:
 
 [![wakatime](https://wakatime.com/badge/user/ce8e6e8f-92ac-445b-8a7e-bf65320d3f77.svg)](https://wakatime.com/@ce8e6e8f-92ac-445b-8a7e-bf65320d3f77)
 
+[![Buy Me A Coffee](https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png)](https://www.buymeacoffee.com/farahmandiz)
+
 [![Arash Farahmandi](http://www.coffeete.ir/images/buttons/lemonchiffon.png)](http://www.coffeete.ir/arash.farahmandi)
 
 # 📊 GitHub Stats:
